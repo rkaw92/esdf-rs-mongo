@@ -1,0 +1,36 @@
+{
+  "name": "esdf-rs-mongo",
+  "version": "0.1.0",
+  "description": "a MongoDB-backed projection (reporting store) builder for the esdf event-sourcing framework",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "dependencies": {
+    "mongodb": "^2.1.4",
+    "when": "^3.7.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkaw92/esdf-rs-mongo.git"
+  },
+  "keywords": [
+    "esdf",
+    "event",
+    "sourcing",
+    "reporting",
+    "store",
+    "projections",
+    "cqrs"
+  ],
+  "author": "Robert Kawecki <robert+npm@rkaw.pl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rkaw92/esdf-rs-mongo/issues"
+  },
+  "homepage": "https://github.com/rkaw92/esdf-rs-mongo#readme"
+}
